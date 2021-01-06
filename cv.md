@@ -6,7 +6,7 @@
 ----------------------
 *email:* introwlad@gmail.com
 
-*tel:* +37533604****
+*tel:* +375336047601
 
 *Telegram:* [@vladislavho](t.me/@vladislavho)
 
