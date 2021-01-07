@@ -13,8 +13,6 @@ body{
   max-width: 1200px;
   margin: 0 auto;
 
-  /* border: 1px solid black; */
-
 }
 
 h1,
@@ -43,7 +41,6 @@ h1{
   border-bottom:2px solid silver ;
 }
 
-
 .avatar{
   width: 200px;
   height: 200px;
@@ -65,8 +62,8 @@ li{
 ul.basic__information li{
   margin-top: 5px;
   list-style-type: none;
-  
 }
+
 li.name{
   font-size: 26px;
   font-weight: 700;
@@ -76,18 +73,17 @@ li.name{
 .container{
   padding: 25px 0;
   border-bottom: 1px solid silver;
-  display: flex;
-  /* justify-content: center; */
-  flex-direction: column;
 }
+
 ul.list{
   padding:5px 20px 5px;
-  /* text-align: center; */
 }
+
 ul.list li{
   font-size: 26px;
   padding: 10px 0 0;
 }
+
 ul.list__skills li{
   text-transform: uppercase;
 }
